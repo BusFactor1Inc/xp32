@@ -18,6 +18,10 @@ never developed to the ability that I've wished for.
 
 Maybe this paper will get written someday.
 
+Thanks to Ryan Slemko, without which this would have never gotten finished.
+
+FIN
+
 --
 Burton Samograd
 burton.samograd@gmail.com
